@@ -97,7 +97,7 @@ print(resposta["result"])
 ├── arquivos/
 │   └── chat_retrieval_db/    # Banco vetorial persistido (ChromaDB)
 ├── notebook.ipynb            # Pipeline principal
-├── .env                      # Chave da OpenAI (não versionar)
+├── .env                      # Chave da OpenAI 
 ├── .gitignore
 └── requirements.txt
 ```
